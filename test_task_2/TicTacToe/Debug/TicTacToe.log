@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\deepdiving\test_task_2\tictactoe\main.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TicTacToe.vcxproj -> D:\DeepDiving\test_task_2\Debug\TicTacToe.exe
